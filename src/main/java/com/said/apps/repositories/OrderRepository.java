@@ -6,5 +6,4 @@ import com.said.apps.entities.Order;
 
 public interface OrderRepository extends JpaRepository<Order, Long> {
 
-	
 }
